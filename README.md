@@ -16,9 +16,12 @@
 
 ## ✔ Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![NOTION](https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=NOTION&logoColor=white)
 ![AUDACITY](https://img.shields.io/badge/AUDACITY-0000CC.svg?&style=for-the-badge&logo=AUDACITY&logoColor=white)
 ![SHOTCUT](https://img.shields.io/badge/SHOTCUT-115C77.svg?&style=for-the-badge&logo=SHOTCUT&logoColor=white)
 
+## ✔ Tech Learned
+<a href ="https://dazzling-trumpet-1a7.notion.site/7d89cde695b94ebcb39673328befd53c">![NOTION](https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=NOTION&logoColor=white)</a>
+
 ## ✔ Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bnb8419@ajou.ac.kr)](mailto:bnb8419@ajou.ac.kr)
+![NOTION](https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=NOTION&logoColor=white)
