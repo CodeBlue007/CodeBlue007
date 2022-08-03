@@ -1,7 +1,11 @@
-# 🏋🏼‍♀️ Subin Lee (codename007) 😎
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FCF8E8&height=200&section=header&text=🏋🏼‍♀️Subin%20Lee😎&fontSize=50&fontColor=100720)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodename007&count_bg=%2349FF52&title_bg=%23110A01&icon=expertsexchange.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+## ✔ Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bnb8419)](https://solved.ac/bnb8419/)
 
 ## ✔ Skills
@@ -24,4 +28,5 @@
 
 ## ✔ Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bnb8419@ajou.ac.kr)](mailto:bnb8419@ajou.ac.kr)
-![NOTION](https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=NOTION&logoColor=white)
+
+ </div>
